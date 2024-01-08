@@ -27,7 +27,6 @@ export default function TimelineView() {
       if (snapshot.exists()) {   
           const data = snapshot.val() 
           const dayStuff = JSON.parse(JSON.stringify(data))
-          console.log(dayStuff)
           resolve(dayStuff);
         } else {
           reject("No data found!");
