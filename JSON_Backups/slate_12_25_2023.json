@@ -1,0 +1,32 @@
+{
+  "UserId": {
+    "DailyPlanner": {
+      "12_27_2023": {
+        "02:00": {
+          "Color": "#123456",
+          "Description": "Chipolte Chicken Bowl is so good",
+          "End": "07:51",
+          "Start": "02:00",
+          "Title": "Chicken",
+          "Visible": true
+        },
+        "11:25": {
+          "Color": "#935733",
+          "Description": "gjsdijgoidfsgjsd",
+          "End": "13:45",
+          "Start": "11:25",
+          "Title": "Hellooooo",
+          "Visible": true
+        },
+        "17:00": {
+          "Color": "#935733",
+          "Description": "Hola",
+          "End": "21:45",
+          "Start": "17:00",
+          "Title": "Como Estas",
+          "Visible": true
+        }
+      }
+    }
+  }
+}
